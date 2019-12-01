@@ -1,3 +1,10 @@
+# Formatting a USB to FAT16
+```
+sudo mkfs.vfat -F 16 <device>
+```  
+
+https://www.vladan.fr/plug-in-the-external-usb-drive-to-esx-server-directly-to-backup-or-copy/
+
 # USB-Storage-Access-in-ESXi
 https://www.virtuallyghetto.com/2012/03/how-to-access-usb-storage-in-esxi-shell.html
 
